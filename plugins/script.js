@@ -17,11 +17,13 @@ let repo =`
 *|* *`B Y/A N S A R - P A N H W A R`*
 
 > *P A N H W A R M D R E P O:*
+
 *|* *https://github.com/Panhwar110/Panhwar-MD*
 
 > *S U P P O R T C H A N N E L:*
 
 *|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+
 *╰──────────────●●►*
 
 > *👑P A N H W A R - M D👑*
