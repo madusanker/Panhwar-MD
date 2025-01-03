@@ -1,7 +1,7 @@
 {
   "name": "PANHWAR-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘᴀɴʜᴡᴀʀ ᴍᴅ",
-  "logo": "https://i.ibb.co/59675LG/Manul-Ofc-X.jpg",
+  "logo": "https://i.imgur.com/UfzyhWN.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/59675LG/Manul-Ofc-X.jpg"
+      "value": "https://i.imgur.com/UfzyhWN.jpeg"
     }, 
     
     "ALIVE_MSG": {
@@ -137,11 +137,6 @@
       "description": "enter your caption if you want to show on menu.",
       "required": true,
       "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ*"
-    }, 
-    "AUTO_STATUS__MSG": {
-      "description": "enter your caption if you want to show on status reply.",
-      "required": true,
-      "value": "𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 𝒑𝒂𝒏𝒉𝒘𝒂𝒓 𝒎𝒅"
     }
 
 
