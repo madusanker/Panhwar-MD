@@ -13,15 +13,12 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-
 *|* *ANSAR PANHWAR*
 
 > *PANHWAR MD REPO:*
-
 *|* *https://github.com/Panhwar110/Panhwar-MD*
 
 > *SUPPORT CHANNEL:*
-
 *|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
 *╰──────────────●●►*
 
