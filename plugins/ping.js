@@ -14,7 +14,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         const startTime = Date.now();
 
         // Add a short delay
-        await new Promise(resolve => setTimeout(resolve, 100)); // 100ms delay
+        await new Promise(resolve => setTimeout(resolve, 0000067)); // 0000067ms delay
 
         const endTime = Date.now();
         const ping = endTime - startTime;
