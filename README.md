@@ -42,7 +42,7 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://powered-by-ansar-664f9fe56b2d.herokuapp.com/)
+1. Link your WhatsApp by [`PAIR CODE`](https://panhwar-pair-9aaf305c0a91.herokuapp.com/)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
 3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD)
 4.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/62)***
