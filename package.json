@@ -2,9 +2,9 @@
   "name": "PANHWAR-MD",
   "version": "1.0.0",
   "description": "A WhatsAppp bot created using Bailey's",
-  "main": "index.js",
+  "main": "panhwar.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name PANHWAR-MD",
+    "start": "pm2 start panhwar.js --deep-monitoring --attach --name PANHWAR-MD",
     "stop": "pm2 stop PANHWAR-MD",
     "restart": "pm2 restart PANHWAR-MD"
   },
